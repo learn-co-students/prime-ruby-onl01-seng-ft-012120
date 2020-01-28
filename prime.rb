@@ -1,1 +1,1 @@
-# Add  code here!
+describe "prime?" do
